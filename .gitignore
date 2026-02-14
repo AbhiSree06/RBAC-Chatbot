@@ -1,0 +1,57 @@
+# =========================
+# Environment variables (IMPORTANT)
+# =========================
+.env
+
+# =========================
+# Python virtual environment
+# =========================
+venv/
+env/
+ENV/
+
+# =========================
+# Python cache files
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Vector database / local storage
+# (Chroma / embeddings / index storage)
+# =========================
+vectorstore/
+
+# =========================
+# Logs and debug files
+# =========================
+*.log
+debug_chunks.json
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE / Editor files
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Testing / coverage
+# =========================
+.coverage
+htmlcov/
+.pytest_cache/
+
+# =========================
+# Build / packaging
+# =========================
+build/
+dist/
+*.egg-info/
