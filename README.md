@@ -1,4 +1,4 @@
-# 🔐 RBAC-Based RAG Chatbot (FastAPI + Streamlit + Hugging Face)
+# RBAC-Based RAG Chatbot (FastAPI + Streamlit + Hugging Face)
 
 This project is a **Role-Based Access Control (RBAC) powered Retrieval-Augmented Generation (RAG) chatbot**, built using:
 
@@ -13,9 +13,9 @@ This project is a **Role-Based Access Control (RBAC) powered Retrieval-Augmented
 
 ---
 
-## 🚀 **High-Level System Architecture**
+## **High-Level System Architecture**
 
-### 📌 Components
+###  Components
 
 1. **Frontend (Streamlit)**
    - User login page  
@@ -50,7 +50,4 @@ This project is a **Role-Based Access Control (RBAC) powered Retrieval-Augmented
    - Different roles (e.g., ENGINEERING, HR, ADMIN)
    - Controls which actions a user can perform  
 
----
-
-## 📂 **Project Structure (Your Project)**
 
